@@ -11,5 +11,5 @@ github_username:  EverythingIsNAND
 markdown: kramdown
 plugins:
   - jekyll-feed
-image: /img/mainicon.png
+image: /img/nandgate.png
 lang: sv_SE
